@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ValleyManor.unity
+  isLoaded: 1
+  isActive: 1

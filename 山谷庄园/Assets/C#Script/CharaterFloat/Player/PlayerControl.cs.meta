@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8fe5fb9f05cc6241a3b9bb0cd2762da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efx_Click_Green: {fileID: 100010, guid: 462a97d0e7fe38845aaa96c35ee7ab29, type: 2}
+  - efx_Click_Orange: {fileID: 100014, guid: 11926e1938b62114cb1bec2050650d19, type: 2}
+  - efx_Click_Red: {fileID: 100000, guid: 20d1ca40663280347b3ba2bf923dcb95, type: 2}
+  - playerCha: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
